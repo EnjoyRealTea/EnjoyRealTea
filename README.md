@@ -15,12 +15,23 @@ Along with the Capstone tasks required of the course, there are various case stu
 ## Portfolio Highlights:
 #### NLP:
 - [Semantic Similarity](https://github.com/EnjoyRealTea/bytematch-case-study)
+
+  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/739187e8-ee20-4808-92f7-1372a71d891a" height="30">
 #### Machine Learning:
 - [Single and multiple linear regression](https://github.com/EnjoyRealTea/data-science-example-projects/tree/main/Linear%20Regression)
+  
+  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/8e29691c-6e39-44a1-89eb-7d0007dac570" height="35">
 - [Random Forest Classification](https://github.com/EnjoyRealTea/predictive-maintenance)
+  
+  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/7a60d6db-d04f-493c-a770-a1df526ef51e" height="30">
 #### Working with data:
 - [SQLite](https://github.com/EnjoyRealTea/Library-study-with-SQL)
+  
+  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/029a73ba-a89c-4541-b9f6-03d995d4577a" height="30">
 - [Exploratory Data Analysis](https://github.com/EnjoyRealTea/data-science-example-projects/tree/main/Exploratory%20Data%20Analysis)
+  
+  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/3526aa9e-0166-44b1-ab7a-1a111ffc3f28" height="30">
+
 
 
 <!---
