@@ -14,9 +14,13 @@ Along with the Capstone tasks required of the course, there are various case stu
 
 ## Portfolio Highlights:
 #### NLP:
+- [Sentiment Analysis](https://github.com/EnjoyRealTea/finalCapstone)
+
+  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/8d7a828d-c98f-466e-b56f-fb0aaf6222dc" height="30">
+
 - [Semantic Similarity](https://github.com/EnjoyRealTea/bytematch-case-study)
 
-  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/739187e8-ee20-4808-92f7-1372a71d891a" height="30">
+  <img src="https://github.com/EnjoyRealTea/EnjoyRealTea/assets/153746885/739187e8-ee20-4808-92f7-1372a71d891a" height="28">
 #### Machine Learning:
 - [Single and multiple linear regression](https://github.com/EnjoyRealTea/data-science-example-projects/tree/main/Linear%20Regression)
   
